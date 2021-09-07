@@ -162,8 +162,7 @@
   </reporting>
 
   <scm>
-    <connection>scm:git:git://IPSERVEUR/repository1/monappli</connection>
-    <url>http://IPSERVEUR/svn/monappli-web</url>
+    <connection>scm:git:git://github.com/gadreysophie/_MAN</connection>
+    <url>https://github.com/gadreysophie/_MAN</url>
   </scm>
-
 </project>
